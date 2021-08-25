@@ -1,4 +1,4 @@
 # SoundDemocrat
-Democratic song queue
+Democratic song queue.
 
-Available on https://sound.democrat
+Available on https://sound.democrat.
